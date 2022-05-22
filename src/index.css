@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 50px;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.tukdd6b {
+    background: #333;
+}
+
+.tukdd6b  div  button {
+    background: #333;
+    color: white;
+}
+
+.tukdd6b div button svg {
+    fill: white;
+}
+
+.tukdd6b div button:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+
+.tukdd6b {
+    background: #333;
+}
+.tukdd6b div button {
+    background: #333;
+    color: white;
+}
+
